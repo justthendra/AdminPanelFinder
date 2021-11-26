@@ -13,7 +13,8 @@ Girdikten Sonra Böyle Bir Kısım Gelecektir, Website'nin Hangi Dil İle Yazıl
 
 <a href="https://imgur.com/XCVqYO4"><img src="https://i.imgur.com/XCVqYO4.png" title="source: imgur.com" /></a>
 
-Bu İşlemleri Yaptıktan Sonra Websiteyi Taramaya Başlar. Admin Paneli Bulduğu Zaman "[+] Admin Paneli Bulundu. => [Website Admin Paneli]" Yazısı Çıkar.
+# Son Aşama
+**Bu İşlemleri Yaptıktan Sonra Websiteyi Taramaya Başlar. Admin Paneli Bulduğu Zaman** ```[+] Admin Paneli Bulundu. => [Website Admin Paneli]``` **Yazısı Çıkar.**
 
 # Copyright © Thendra
 Kod Thendra'a Aittir Kopyalanıp Başka Yerlerde Paylaşılması Yasaktır. Fark Edildiği Takdirde Gerekli İşlemlere Başvurulacaktır.
