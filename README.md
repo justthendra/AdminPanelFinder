@@ -4,7 +4,7 @@ Website Üzerindeki Admin Giriş Panellerini Bulur.
 # Kullanım
 
 # 1.Aşama
-En Sondaki Ok'dan Sonra Website URL'sini Giriyorsunuz.
+>'dan Sonra Website URL'sini Giriyorsunuz.
 
 <a href="https://imgur.com/KYXLRi7"><img src="https://i.imgur.com/KYXLRi7.png" title="source: imgur.com" /></a>
 
