@@ -16,5 +16,5 @@ Girdikten Sonra Böyle Bir Kısım Gelecektir, Website'nin Hangi Dil İle Yazıl
 # Son Aşama
 **Bu İşlemleri Yaptıktan Sonra Websiteyi Taramaya Başlar. Admin Paneli Bulduğu Zaman** ```[+] Admin Paneli Bulundu. => [Website Admin Paneli]``` **Yazısı Çıkar.**
 
-# Copyright © Curwels
-Kod Curwels'a Aittir Kopyalanıp Başka Yerlerde Paylaşılması Yasaktır. Fark Edildiği Takdirde Gerekli İşlemlere Başvurulacaktır.
+# Copyright © Thendra
+Kod Thendra'ya Aittir Kopyalanıp Başka Yerlerde Paylaşılması Yasaktır. Fark Edildiği Takdirde Gerekli İşlemlere Başvurulacaktır.
