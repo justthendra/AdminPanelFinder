@@ -12,7 +12,7 @@ use LWP::UserAgent;
 
 system("color c");
 system('cls');
-system('title Admin Control Panel Finder By Absolut Development');
+system('title Admin Control Panel Finder By Thendra');
 
 print"
                                        --------------------------------------------
